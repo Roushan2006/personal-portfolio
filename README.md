@@ -1,59 +1,138 @@
-# 🚀 Modern 3D Portfolio Website
+# 🚀 Roushan Kumar — Modern 3D Portfolio Website
 
-A premium modern portfolio website with:
-- ✨ Glassmorphism UI
-- 🎨 3D Hover Effects
-- 🌌 Animated Background
-- 📱 Fully Responsive Design
-- ⚡ Smooth Animations
-- 📩 Working Contact Form
-- 🔥 Modern UI/UX
+A premium modern developer portfolio built with modern UI/UX principles, smooth animations, responsive layouts, and interactive 3D-inspired effects.
 
 ---
 
-# 📸 Features
+# 🌐 Live Demo
+
+🔗 Live Website: https://your-portfolio-link.netlify.app
+
+🔗 GitHub Repository: https://github.com/Roushan2006
+
+---
+
+# ✨ Features
 
 ## 🎯 Hero Section
-- Animated gradient text
-- Floating tags
-- 3D profile image
-- Smooth entrance animations
+- Animated gradient typography
+- Floating technology tags
+- 3D hover profile image
+- Smooth reveal animations
+- Modern responsive layout
+
+---
 
 ## 🧠 About Section
-- Modern glass cards
-- Hover interactions
-- Reveal animations
+- Glassmorphism cards
+- Hover tilt effects
+- Animated content reveal
+- Professional introduction
 
-## 💼 Projects Section
+---
+
+## 💼 Projects Showcase
 - Interactive project cards
-- Tech stack pills
-- GitHub & Live demo links
+- GitHub & live demo buttons
+- Tech stack indicators
+- Smooth hover animations
+
+Projects Included:
+- 😊 Emotion Detector
+- 📈 Score Forecasting
+- 🍽️ Restaurant Review Sentiment Analysis
+- ⚡ Algorithm Visualizer Engine
+- 📊 LMA ML Dashboard
+- 💼 Employee Task Management System
+
+---
 
 ## 🛠 Skills Section
-- Categorized skills
-- Modern UI pills
-- Hover effects
+Categorized technical skills including:
 
-## 📚 Education & Experience
-- Timeline inspired cards
-- Clean typography
+### 🌐 Frontend
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Bootstrap
 
-## 📩 Contact Form
-- Glassmorphism form
-- Animated inputs
-- Email integration
+### 💻 Programming Languages
+- Python
+- C
+- C++
+- Java
+- PHP
+- SQL
+
+### 🤖 AI & Machine Learning
+- Machine Learning
+- NLP
+- Deep Learning
+- TensorFlow
+- Scikit-learn
+- XGBoost
+- OpenCV
+
+### 🧰 Tools & Platforms
+- Git & GitHub
+- Streamlit
+- VS Code
+- Google Colab
+- Jupyter Notebook
+- MySQL Workbench
+
+---
+
+# 📚 Education & Experience
+
+## 🎓 Education
+- B.Tech Computer Science Engineering
+- Shobhit Institute of Engineering & Technology, Meerut
+
+## 💼 Experience
+- IBM SkillsBuild Internship
+- CodTech ML Internship
+- Adobe India Hackathon
+- Mindscape Hackathon
+
+---
+
+# 📩 Contact Form
+
+Features:
+- Netlify Forms Integration
+- EmailJS Auto Reply
+- Spam Protection
+- Responsive Glassmorphism Design
+
+---
+
+# 🎨 Modern UI Features
+
+- ✨ Glassmorphism UI
+- 🌌 Animated Gradient Background
+- 🎯 3D Card Hover Effects
+- ⚡ Smooth Scroll Animations
+- 🔥 Neon Glow Effects
+- 📱 Fully Responsive Design
+- 🎭 Animated Buttons
+- 🧠 Active Navigation Highlight
+- 🎨 Custom Scrollbar
+- 🚀 Performance Optimized
 
 ---
 
 # 🧰 Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript (Vanilla JS)
-- Google Fonts
-- Responsive Design
-- CSS Animations
-- Intersection Observer API
+| Technology | Usage |
+|------------|-------|
+| HTML5 | Structure |
+| CSS3 | Styling |
+| JavaScript | Interactivity |
+| EmailJS | Email Integration |
+| Netlify | Deployment |
+| Google Fonts | Typography |
 
 ---
 
@@ -62,32 +141,15 @@ A premium modern portfolio website with:
 ```bash
 Portfolio/
 │
-├── Certificate
-    ├── Resume(1).pdf
-    ├── IBM.pdf
+├── Certificate/
+│   ├── Resume(1).pdf
+│   ├── IBM.pdf
+│   ├── Adobe.jpeg
+│   └── Mind.jpeg
+│   └── Roushan_Kumar_Resume.pdf
+│
 ├── index.html
 ├── style.css
 ├── script.js
 ├── README.md
-└── requirements.txt
-
-🌟 UI Features
-Neon Glow Effects
-3D Card Tilt
-Animated Buttons
-Floating Particles
-Smooth Scroll
-Active Navbar Highlight
-Glassmorphism Design
-Custom Scrollbar
-
-📱 Responsive Design
-
-Optimized for:
-Desktop
-Tablet
-Mobile Devices
-
-👨‍💻 Author
-
-Roushan Kumar
+└── assets/
