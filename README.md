@@ -155,3 +155,10 @@ Portfolio/
 └── assets/
 
 ```
+
+
+👨‍💻 Author
+Roushan Kumar
+🌐 Portfolio: https://your-portfolio-link.netlify.app
+🐙 GitHub: https://github.com/Roushan2006
+💼 LinkedIn: https://www.linkedin.com/in/roushan-kumar-aa9a1a293
