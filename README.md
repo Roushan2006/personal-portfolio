@@ -155,7 +155,7 @@ Portfolio/
 └── assets/
 
 ```
-
+```bash
 
 👨‍💻 Author
 Roushan Kumar
