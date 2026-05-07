@@ -6,9 +6,9 @@ A premium modern developer portfolio built with modern UI/UX principles, smooth 
 
 # 🌐 Live Demo
 
-🔗 Live Website: https://your-portfolio-link.netlify.app
+🔗 Live Website: https://roushan2006-portfolio.netlify.app/
 
-🔗 GitHub Repository: https://github.com/Roushan2006
+🔗 GitHub Repository: https://github.com/Roushan2006/personal-portfolio
 
 ---
 
@@ -136,7 +136,7 @@ Features:
 
 ---
 
-# 📂 Project Structure
+# 📂 Project Structure  
 
 ```bash
 Portfolio/
@@ -153,3 +153,5 @@ Portfolio/
 ├── script.js
 ├── README.md
 └── assets/
+
+```
