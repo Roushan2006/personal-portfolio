@@ -705,6 +705,109 @@
 
     </section>
 
+
+    <!-- EmailJS -->
+<script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
+
+<script>
+    (function () {
+        emailjs.init("mqu3kuUJr0RgURTme");
+    })();
+</script>
+
+
+<!-- CONTACT -->
+<section class="contact-section" id="contact">
+
+    <div class="section-tag" style="text-align:center">Contact</div>
+
+    <h2 class="section-title" style="text-align:center">
+        Let's Connect
+    </h2>
+
+    <p class="section-sub" style="text-align:center;margin:0 auto 40px;">
+        Open to internships, collaborations, freelance opportunities,
+        and exciting tech discussions.
+    </p>
+
+    <form 
+        class="contact-form"
+        id="contact-form"
+        name="contact"
+        method="POST"
+        data-netlify="true"
+    >
+
+        <!-- Netlify Hidden Input -->
+        <input type="hidden" name="form-name" value="contact">
+
+        <!-- Spam Protection -->
+        <input type="hidden" name="bot-field">
+
+        <input 
+            type="text"
+            name="name"
+            placeholder="Your Name"
+            required
+        >
+
+        <input
+            type="email"
+            name="email"
+            placeholder="Your Email"
+            required
+        >
+
+        <textarea
+            name="message"
+            rows="6"
+            placeholder="Write your message here..."
+            required
+        ></textarea>
+
+        <button type="submit" class="contact-btn">
+            📩 Get In Touch
+        </button>
+
+    </form>
+
+</section>
+
+
+<!-- EMAILJS + NETLIFY -->
+<script>
+
+document
+.getElementById("contact-form")
+.addEventListener("submit", function(event){
+
+    event.preventDefault();
+
+    const form = this;
+
+    // Send Auto Reply Email
+    emailjs.sendForm(
+        "service_zrdbekv",
+        "3bqnltUzgASOwDYYzs71d",
+        form
+    )
+    .then(function(){
+
+        alert("Message Sent Successfully!");
+
+        // Submit to Netlify
+        form.submit();
+
+    }, function(error){
+
+        alert("Failed: " + JSON.stringify(error));
+
+    });
+
+});
+
+</script>
+
     <footer>
         Designed &amp; built with ❤️ · Roushan Kumar © 2026
     </footer>
